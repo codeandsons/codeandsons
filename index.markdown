@@ -15,7 +15,8 @@ A collection of current and historical MLB, MLS, NBA, NFL, and NHL logos.
 ### [Playoff Magic](https://playoffmagic.com)
 
 Magic Numbers and playoff clinching & elimination scenarios for the worlds most popular sports leagues:
-- Major League Baseball (United States and Canada), 
+
+- Major League Baseball (United States and Canada)
 - National Basketball Association (United States and Canada)
 - National Football League (United States)
 - National Hockey League (United States and Canada)
